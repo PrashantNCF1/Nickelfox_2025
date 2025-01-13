@@ -184,7 +184,7 @@
     <artifactId>testng</artifactId>
     <version>7.4.0</version>
     <scope>compile</scope>  Changed from 'test' to 'compile' 
-</dependency>-->
+</dependency>
 
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
